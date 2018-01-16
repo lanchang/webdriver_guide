@@ -11,6 +11,9 @@ form的操作
 * 使用click方法点击button
 * 使用click方法选择option，从而达到选中select下拉框中某个具体菜单项的效果
 
+* 开启多个浏览器alert容易抓取不到，关闭多个浏览器
+
+
 代码
 ----
 
